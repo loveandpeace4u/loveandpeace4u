@@ -1,6 +1,12 @@
-### Hi there 👋
+# Love && Peace 4 u
+
+Have a nice day!
+
+to be continued...
+
 
 <!--
+### Hi there 👋
 **loveandpeace4u/loveandpeace4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
